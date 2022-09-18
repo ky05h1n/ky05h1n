@@ -6,6 +6,7 @@
 
 - 🎓 &nbsp; Studying Computer Science and Cyber Security at 1337 School.
 
+[![ydahni's 42 stats](https://badge.mediaplus.ma/greenbinary/enja)](https://github.com/oakoudad/badge42)
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 
